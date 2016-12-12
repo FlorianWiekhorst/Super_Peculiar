@@ -1,0 +1,1639 @@
+fileFormatVersion: 2
+guid: 4dce0d93fc9e9844eb2a248fe903e7bd
+timeCreated: 1434881772
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_foreground_0
+    21300002: 100_foreground_1
+    21300004: 100_foreground_2
+    21300006: 100_foreground_3
+    21300008: 100_foreground_4
+    21300010: 100_foreground_5
+    21300012: 100_foreground_6
+    21300014: 100_foreground_7
+    21300016: 100_foreground_8
+    21300018: 100_foreground_9
+    21300020: 100_foreground_10
+    21300022: 100_foreground_11
+    21300024: 100_foreground_12
+    21300026: 100_foreground_13
+    21300028: 100_foreground_14
+    21300030: 100_foreground_15
+    21300032: 100_foreground_16
+    21300034: 100_foreground_17
+    21300036: 100_foreground_18
+    21300038: 100_foreground_19
+    21300040: 100_foreground_20
+    21300042: 100_foreground_21
+    21300044: 100_foreground_22
+    21300046: 100_foreground_23
+    21300048: 100_foreground_26
+    21300050: 100_foreground_27
+    21300052: 100_foreground_28
+    21300054: 100_foreground_29
+    21300056: 100_foreground_30
+    21300058: 100_foreground_31
+    21300060: 100_foreground_33
+    21300062: 100_foreground_34
+    21300064: 100_foreground_35
+    21300066: 100_foreground_36
+    21300068: 100_foreground_37
+    21300070: 100_foreground_38
+    21300072: 100_foreground_39
+    21300074: 100_foreground_40
+    21300076: 100_foreground_41
+    21300078: 100_foreground_42
+    21300080: 100_foreground_43
+    21300082: 100_foreground_44
+    21300084: 100_foreground_45
+    21300086: 100_foreground_46
+    21300088: 100_foreground_47
+    21300090: 100_foreground_48
+    21300092: 100_foreground_49
+    21300094: 100_foreground_50
+    21300096: 100_foreground_51
+    21300098: 100_foreground_52
+    21300100: 100_foreground_53
+    21300102: 100_foreground_54
+    21300104: 100_foreground_55
+    21300106: 100_foreground_56
+    21300108: 100_foreground_57
+    21300110: 100_foreground_58
+    21300112: 100_foreground_59
+    21300114: 100_foreground_60
+    21300116: 100_foreground_61
+    21300118: 100_foreground_62
+    21300120: 100_foreground_63
+    21300122: 100_foreground_64
+    21300124: 100_foreground_65
+    21300126: 100_foreground_66
+    21300128: 100_foreground_67
+    21300130: 100_foreground_68
+    21300132: 100_foreground_69
+    21300134: 100_foreground_70
+    21300136: 100_foreground_71
+    21300138: 100_foreground_72
+    21300140: 100_foreground_73
+    21300142: 100_foreground_74
+    21300144: 100_foreground_75
+    21300146: 100_foreground_76
+    21300148: 100_foreground_77
+    21300150: 100_foreground_78
+    21300152: 100_foreground_79
+    21300154: 100_foreground_80
+    21300156: 100_foreground_81
+    21300158: 100_foreground_82
+    21300160: 100_foreground_83
+    21300162: 100_foreground_84
+    21300164: 100_foreground_85
+    21300166: 100_foreground_86
+    21300168: 100_foreground_87
+    21300170: 100_foreground_88
+    21300172: 100_foreground_89
+    21300174: 100_foreground_90
+    21300176: 100_foreground_91
+    21300178: 100_foreground_92
+    21300180: 100_foreground_93
+    21300182: 100_foreground_94
+    21300184: 100_foreground_95
+    21300186: 100_foreground_96
+    21300188: 100_foreground_97
+    21300190: 100_foreground_98
+    21300192: 100_foreground_99
+    21300194: 100_foreground_100
+    21300196: 100_foreground_101
+    21300198: 100_foreground_102
+    21300200: 100_foreground_103
+    21300202: 100_foreground_104
+    21300204: 100_foreground_105
+    21300206: 100_foreground_106
+    21300208: 100_foreground_107
+    21300210: 100_foreground_108
+    21300212: 100_foreground_109
+    21300214: 100_foreground_110
+    21300216: 100_foreground_111
+    21300218: 100_foreground_112
+    21300220: 100_foreground_113
+    21300222: 100_foreground_114
+    21300224: 100_foreground_115
+    21300226: 100_foreground_116
+    21300228: 100_foreground_117
+    21300230: 100_foreground_118
+    21300232: 100_foreground_119
+    21300234: 100_foreground_120
+    21300236: 100_foreground_121
+    21300238: 100_foreground_122
+    21300240: 100_foreground_123
+    21300242: 100_foreground_124
+    21300244: 100_foreground_125
+    21300246: 100_foreground_126
+    21300248: 100_foreground_127
+    21300250: 100_foreground_128
+    21300252: 100_foreground_129
+    21300254: 100_foreground_130
+    21300256: 100_foreground_131
+    21300258: 100_foreground_132
+    21300260: 100_foreground_133
+    21300262: 100_foreground_134
+    21300264: 100_foreground_135
+    21300266: 100_foreground_136
+    21300268: 100_foreground_137
+    21300270: 100_foreground_138
+    21300272: 100_foreground_139
+    21300274: 100_foreground_140
+    21300276: 100_foreground_141
+    21300278: 100_foreground_142
+    21300280: 100_foreground_143
+    21300282: 100_foreground_144
+    21300284: 100_foreground_145
+    21300286: 100_foreground_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 100_foreground_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1654
+        width: 170
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1654
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1654
+        width: 170
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_3
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1654
+        width: 170
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1654
+        width: 140
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1568
+        width: 146
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1568
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1568
+        width: 102
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1568
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1568
+        width: 130
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1482
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1482
+        width: 104
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1482
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1482
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1482
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1482
+        width: 170
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1482
+        width: 138
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1396
+        width: 176
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1396
+        width: 184
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1396
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1396
+        width: 132
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_21
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1396
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_22
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1396
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1310
+        width: 131
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1310
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1310
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1310
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_29
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1310
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1310
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1224
+        width: 114
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1224
+        width: 144
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1224
+        width: 144
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1224
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_36
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1224
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_37
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1224
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1138
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1170
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1160
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1170
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1138
+        width: 144
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_43
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1138
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_44
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1138
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_45
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1138
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1052
+        width: 170
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1052
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1076
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1086
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1052
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_51
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1052
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_52
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1052
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_53
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1052
+        width: 102
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_54
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1052
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 966
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 966
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 966
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 966
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_59
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 966
+        width: 102
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_60
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 966
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_61
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 966
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_62
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 966
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_63
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 966
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_64
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 966
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 880
+        width: 168
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 880
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_67
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 880
+        width: 190
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_68
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 880
+        width: 136
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_69
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 880
+        width: 170
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 794
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 794
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_72
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 794
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 794
+        width: 14
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 794
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 794
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_76
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 794
+        width: 156
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_77
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 818
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_78
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 808
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_79
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 794
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_80
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 794
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 708
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_82
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 708
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_83
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 708
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_84
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 708
+        width: 96
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_85
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 708
+        width: 184
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_86
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 708
+        width: 194
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_87
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 622
+        width: 116
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_88
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 622
+        width: 190
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 622
+        width: 174
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_90
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 622
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_91
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 622
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_92
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 622
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_93
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 536
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_94
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 536
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 536
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_96
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 536
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_97
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 536
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_98
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 536
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_99
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 536
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_100
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 536
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_101
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 450
+        width: 126
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 450
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 450
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_104
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 450
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_105
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 450
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_106
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 450
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_107
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 450
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_108
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 450
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_109
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 450
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_110
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 450
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_112
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 364
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_113
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 364
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_114
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 364
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_115
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 364
+        width: 160
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_116
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 364
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_117
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 364
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_118
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 278
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_119
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 278
+        width: 94
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_120
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 278
+        width: 192
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_121
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 278
+        width: 156
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_122
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 278
+        width: 104
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_123
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 278
+        width: 170
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_124
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_125
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_126
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 192
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_127
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 192
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_128
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 192
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_129
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 192
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_130
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_131
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 192
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_132
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 192
+        width: 104
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_133
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 107
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_134
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 118
+        width: 192
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_135
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 106
+        width: 184
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_136
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 106
+        width: 200
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_137
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 106
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_138
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_139
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_140
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_141
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_142
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 20
+        width: 108
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_143
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 20
+        width: 192
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_144
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 20
+        width: 156
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_145
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 20
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100_foreground_24
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1310
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

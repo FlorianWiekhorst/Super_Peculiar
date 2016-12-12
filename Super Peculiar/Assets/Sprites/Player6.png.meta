@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 6155c4cd14194d0468aaa077842f60ed
+timeCreated: 1433947583
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player6_0
+    21300002: Player6_1
+    21300004: Player6_2
+    21300006: Player6_3
+    21300008: Player6_4
+    21300010: Player6_5
+    21300012: Player6_6
+    21300014: Player6_7
+    21300016: Player6_8
+    21300018: Player6_9
+    21300020: Player6_10
+    21300022: Player6_11
+    21300024: Player6_12
+    21300026: Player6_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player6_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1656
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1655
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1656
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_3
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1655
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_4
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1655
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1273
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1271
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1271
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_8
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1271
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_9
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1271
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 900
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 899
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 899
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player6_13
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 899
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

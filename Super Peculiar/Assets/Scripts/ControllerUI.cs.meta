@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b95dc3674c10f3045ab2ed3a71dadd4e
+labels:
+- Controller
+- Ui
+- Xbox
+- Playstation
+- Wii
+- Joystick
+- Code
+- Gui
+timeCreated: 1427326953
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

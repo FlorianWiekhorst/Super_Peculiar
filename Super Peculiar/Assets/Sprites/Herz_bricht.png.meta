@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 06c04b51dfde9dc4da754931bf3693e0
+timeCreated: 1434993584
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Herz_bricht_0
+    21300002: Herz_bricht_1
+    21300004: Herz_bricht_2
+    21300006: Herz_bricht_3
+    21300008: Herz_bricht_4
+    21300010: Herz_bricht_7
+    21300012: Herz_bricht_8
+    21300014: Herz_bricht_9
+    21300016: Herz_bricht_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Herz_bricht_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 828
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Herz_bricht_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 831
+        width: 236
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Herz_bricht_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 830
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Herz_bricht_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 832
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Herz_bricht_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 615
+        width: 234
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Herz_bricht_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 612
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Herz_bricht_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 621
+        width: 236
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Herz_bricht_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 362
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Herz_bricht_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 349
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
